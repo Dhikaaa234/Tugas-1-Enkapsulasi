@@ -7,10 +7,10 @@ public class kelasLcd {
 
     public kelasLcd() {
         
-        this.status = "off"; // Default status 
-        this.volume = 50; // Default volume 
-        this.brightness = 37; // Default brightness 
-        this.cable = "none"; // Default cable
+        this.status = "off";  
+        this.volume = 50;  
+        this.brightness = 37; 
+        this.cable = "none"; 
     }
 
     public void turnOff() {
