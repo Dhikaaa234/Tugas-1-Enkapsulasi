@@ -5,7 +5,6 @@ public class kelasLcd {
     private int brightness;
     private String cable;
 
-    // Constructor
     public kelasLcd() {
         
         this.status = "off"; // Default status 
